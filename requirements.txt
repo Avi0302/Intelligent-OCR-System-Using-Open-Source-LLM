@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+paddleocr
+paddlepaddle
+groq
+python-dotenv
+Pillow
+pymupdf
